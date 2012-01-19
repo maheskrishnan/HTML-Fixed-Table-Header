@@ -1,3 +1,7 @@
+
+=== Simple jQuery based solution for fixed Header HTML tables.
+
+
 this is the solution outline.
 
  - clone the table which needs to have fixed header and place the cloned copy on top of original
